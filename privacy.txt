@@ -7,6 +7,7 @@
 ||*.bilibili.com^$removeparam=share_session_id
 ||*.bilibili.com^$removeparam=share_source
 ||*.bilibili.com^$removeparam=share_tag
+||*.bilibili.com^$removeparam=timestamp
 ||*.bilibili.com^$removeparam=unique_k
 ||search.bilibili.com^$removeparam=from_source
 ||space.bilibili.com^$removeparam=from
