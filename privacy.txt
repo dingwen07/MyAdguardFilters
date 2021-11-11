@@ -1,5 +1,7 @@
 
 ! Bilibili
+||*.bilibili.com^$removeparam=from
+||*.bilibili.com^$removeparam=seid
 ||*.bilibili.com^$removeparam=share_source
 ||*.bilibili.com^$removeparam=spm_id_from
 ||*.bilibili.com^$removeparam=share_medium
@@ -10,5 +12,3 @@
 ||*.bilibili.com^$removeparam=timestamp
 ||*.bilibili.com^$removeparam=unique_k
 ||search.bilibili.com^$removeparam=from_source
-||space.bilibili.com^$removeparam=from
-||space.bilibili.com^$removeparam=seid
