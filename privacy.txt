@@ -1,3 +1,5 @@
+! Title: My Privacy Filter
+! Version: 0.1
 
 ! Bilibili
 ||*.bilibili.com^$removeparam=from
