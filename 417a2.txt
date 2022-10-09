@@ -1,0 +1,3 @@
+||fireball^$dnsrewrite=NOERROR;A;127.0.0.1
+||frostbolt^$dnsrewrite=NOERROR;A;127.0.0.1
+||icelance^$dnsrewrite=NOERROR;A;127.0.0.1
